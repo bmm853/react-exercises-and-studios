@@ -3,9 +3,12 @@
    font-family:'Courier New', Courier, monospace;
    font-size: 18px;
    font-style: italic;
+   text-align: left;
+   background-color:hotpink
 }
 
 .choresHeading {
    color: black;
    text-decoration-line: underline;
+   text-align: left;
 }

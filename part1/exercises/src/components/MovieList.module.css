@@ -5,6 +5,10 @@
 }
 
 .movieHeading {
-   color: darkgreen;
+   color: navy;
    text-align: left;
+}
+
+.movieBlock {
+   border-style: solid;
 }
