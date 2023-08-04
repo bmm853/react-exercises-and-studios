@@ -1,17 +1,17 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "Crunchy Cabbage Salad",
+     "author": "Beth Moncel",
+     "description": "Crunchy cabbage salad coated in yummy sesame ginger dressing",
+     "website": "https://www.budgetbytes.com/crunchy-asian-salad/",
+     "recipeImage": "https://www.budgetbytes.com/wp-content/uploads/2012/02/Crunchy-Cabbage-Salad-dressing-V2.jpg",
+     "authorImage": "https://www.budgetbytes.com/wp-content/uploads/2022/07/Beth-2022-3-120x120.jpg",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+       "shredded red cabbage",
+       "carrots",
+       "green onions",
+       "tahini",
+       "fresh grated ginger"
      ]
    }
  ]
