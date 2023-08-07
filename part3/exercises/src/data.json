@@ -1,0 +1,33 @@
+{   "projects": [
+        {
+            "title": "Things Fall Apart",
+            "author": "Chinua Achebe",
+            "image": "https://m.media-amazon.com/images/I/61spl57YceL.jpg",
+            "altText": "Things Fall Apart by Chinua Achebe"
+        },
+        {
+            "title": "The Alice Network",
+            "author": "Kate Quinn",
+            "image": "https://m.media-amazon.com/images/I/81sa0+Azs-L._AC_UF1000,1000_QL80_.jpg",
+            "altText": "The Alice Network by Kate Quinn"
+        },
+        {
+            "title": "The Seven Husbands of Evelyn Hugo",
+            "author": "Taylor Jenkins Reid",
+            "image": "https://m.media-amazon.com/images/I/81browCHrSL._AC_UF1000,1000_QL80_.jpg",
+            "altText": "The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid"
+        },
+        {
+            "title": "Vera Wong's Unsolicited Advice for Murderers",
+            "author": "Jesse Q. Sutanto",
+            "image": "https://m.media-amazon.com/images/I/51AmI+8gFQL.jpg",
+            "altText": "Vera Wong's Unsolicited Advice for Murderers by Jesse Q. Sutanto"
+        },
+        {
+            "title": "The Every",
+            "author": "Dave Eggers",
+            "image": "https://m.media-amazon.com/images/I/71vGoDQInkL._AC_UF1000,1000_QL80_.jpg",
+            "altText": "The Every by Dave Eggers"
+        }
+    ]
+}
